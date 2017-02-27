@@ -1,0 +1,210 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#whole_body {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.header {
+  width: 100%;
+  min-height: 300px;
+}
+
+.header_item {
+  text-align: center;
+  margin-top: 40px;
+  min-height: 300px;
+}
+
+.header_image img {
+  width: 25%;
+}
+
+.header_title .name {
+  font-size: 33px;
+  color: #3a3a3a;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.surname {
+  
+  font-weight: bold;
+  color: #000000;
+  font-weight: bold;
+  margin: 0;
+  padding: 0;
+}
+
+.position {
+  color: #000000;
+  font-weight: bold;
+}
+
+.profile_logo {
+  float: left;
+  width: 10%;
+}
+
+.profile_logo img {
+  width: 100%;
+}
+
+.profile_title {
+  float: left;
+  color: #3d6cb0;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 8px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.border_set {
+  float: left;
+  border-bottom: 3px solid #3f6fb6;
+  width: 30%;
+  min-height: 14px;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.profile_description {
+  clear: both;
+  min-height: 200px;
+  width: 100%;
+}
+
+.profile_description {
+  font-size: 11px;
+  padding-top: 10px;
+  width: 71%;
+}
+
+.bold_font {
+  font-weight: bold;
+  color: #000;
+}
+
+.contact {
+  margin-top: 50px;
+}
+
+.information {
+  clear: both;
+  padding-top: 10px;
+}
+
+.information p {
+  color: #3f6fb6;
+  font-weight: bold;
+  padding-top: 10px;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.detail_address {
+  color: #444444;
+  font-weight: normal;
+  padding-left: 30px;
+  font-size: 13px;
+}
+
+.detail_mail {
+  color: #444444;
+  font-weight: normal;
+  padding-left: 45px;
+  font-size: 13px;
+}
+
+.detail_phone {
+  color: #444444;
+  font-weight: normal;
+  padding-left: 45px;
+  font-size: 13px;
+}
+
+.detail_web {
+  color: #444444;
+  font-weight: normal;
+  padding-left: 35px;
+  font-size: 13px;
+}
+
+.skills {
+  margin-top: 60px;
+}
+
+.skills_ratio {
+  clear: both;
+  text-align: center;
+  width: 75%;
+  padding-top: 10px;
+  font-family: 'PT Sans', sans-serif;
+  color:#000;
+}
+
+.ratio ul li {
+  list-style-type: none;
+  float: left;
+}
+
+.ratio ul li img {
+  width: 25%;
+}
+
+.education {
+  margin-top: 50px;
+  min-height: 530px;
+}
+
+.features {
+  clear: both;
+}
+
+.dot_logo {}
+
+.dot_logo img {
+  width: 100%;
+  padding-top: 12px;
+}
+
+.about_feature {
+  float: left;
+}
+
+.about_feature h4 {
+  color: #3d6cb0;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.design_date {
+  color: red;
+  font-weight: normal;
+  font-size: 14px;
+  color: #020202;
+}
+
+.about_feature h3 {
+  font-size: 16px;
+  color: #020202;
+  margin: 0;
+  padding: 0;
+}
+
+.about_feature p {
+  font-size: 11px;
+  color: #020202;
+  margin-top: 5px;
+}
+
+.experience {}
+.preogress_bar{
+  clear:both;
+  padding-top:20px;
+}
+ 
